@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morteza</h1>
 <h3 align="center">A passionate Remote Sensing Engineer and Developer</h3>
 
-- 🌱 I’m currently learning **Django** and **RESTful API** development.
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/imortezamosavi/).
 
 - 📝 I regularly write articles on [ResearchGate](https://www.researchgate.net/profile/Morteza-Mousavi-5) and [GoogleSchoolar](https://scholar.google.com/citations?hl=en&user=7Vek-0oAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F7A8Lj1Gt9o4aeIOTh4DtPNKscWH3PqXJ5j74SeFw-Z8mI1wuXHlxvtmdo1WNQwZtGXTa9S7VOS0KBIHbbgGQB5FbNl5mCWbiHPNlt-xASgIV101vM).
