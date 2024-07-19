@@ -54,6 +54,9 @@
   <a href="https://www.qgis.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="qgis" width="40" height="40"/>
   </a>
+  <a href="https://www.pix4d.com/product/pix4dmapper-photogrammetry-software" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Pix4D_Logo.png" alt="pix4dmapper" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Frameworks and Tools:</h3>
